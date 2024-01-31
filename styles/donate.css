@@ -1,0 +1,46 @@
+
+.top{
+    color: rgb(165, 155, 42);
+}
+
+
+.donate{
+    text-align: center;
+    margin-top: 60px;
+
+}
+.main.button{
+    height: 300px;
+    width: 500px;
+}
+.plan{
+    text-align: center;
+}
+.margin{
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+.our-plan{
+    display: flex;
+    margin-top: 50px;
+
+}
+.food{
+background-color: blueviolet;
+padding: 40px;
+border-radius: 20px;
+}
+.shelter{
+background-color: blanchedalmond;
+padding: 40px;
+border-radius: 20px;
+}
+.frame{
+background-color: chocolate;
+padding: 40px;
+border-radius: 20px;
+margin: 0px 20px;
+}
+.donation{
+display: flex;
+}
