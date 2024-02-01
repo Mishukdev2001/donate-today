@@ -43,4 +43,32 @@ margin: 0px 20px;
 }
 .donation{
 display: flex;
+margin-top: 80px;
+
+}
+.ime{
+margin: 0 20px;
+width: 20px;
+height: 20px;
+}
+.imd{
+margin: 0 20px;
+height: 20px;
+width: 500px;
+text-align: ;
+}
+.survive{
+    justify-content: space-between;
+    margin: 00px ;
+
+}
+.need{
+    width: 400px;
+}
+.get{
+    text-align: center;
+    margin-top: 100px;
+}
+.input{
+    background-color: bisque;
 }
